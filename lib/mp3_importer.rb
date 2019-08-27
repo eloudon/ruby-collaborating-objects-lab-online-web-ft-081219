@@ -1,4 +1,4 @@
-require "pry"
+
 class MP3Importer
 
   attr_accessor :path, :filename
@@ -19,4 +19,4 @@ class MP3Importer
   def import
     @@files.each{ |filename| Song.new_by_filename(filename) }
   end
-end 
+end

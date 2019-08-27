@@ -11,3 +11,5 @@ def self.all
 end
 
 end
+
+artist = Artist.new("Micheal Jackson")

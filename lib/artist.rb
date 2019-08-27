@@ -12,4 +12,4 @@ end
 
 end
 
-artist = Artist.new('Michael Jackson')
+artist = Artist.new("Michael Jackson")

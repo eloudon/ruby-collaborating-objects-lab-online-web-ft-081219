@@ -13,3 +13,4 @@ end
 end
 
 artist = Artist.new("Michael Jackson")
+prince = Artist.new('Prince')

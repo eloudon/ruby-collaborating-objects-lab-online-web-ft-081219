@@ -11,6 +11,3 @@ def self.all
 end
 
 end
-
-artist = Artist.new("Michael Jackson")
-prince = Artist.new('Prince')
